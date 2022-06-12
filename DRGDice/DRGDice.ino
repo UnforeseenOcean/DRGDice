@@ -21,7 +21,11 @@
           SD card support temporarily removed
    v1.4 - Added menu support
           Debug option improved
-   v1.5 -
+   v1.5 - Fixed whole bunch of bugs relating to menu state
+   v1.6 - Randomizer code improved (runs independent of main thread)
+   v1.7 - First working release
+          Fixed ints printing as char
+   v1.8 - Fixed DnD dice d10 option displaying wrong values
 
    HOME: 196, -8
    BOOK: 156, -8
