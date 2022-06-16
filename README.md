@@ -17,3 +17,5 @@ A digital dice for Deep Rock Galactic (the board game) and Dungeons and Dragons
 ![IMG1655027158](https://user-images.githubusercontent.com/11834016/173227442-b04c39ca-d5ab-4efb-86fc-5715bd658269.png)
 
 ![IMG1655027181](https://user-images.githubusercontent.com/11834016/173227446-298b5b9c-4520-4c84-96a5-997e22e4a5d3.png)
+
+![IMG1655346198](https://user-images.githubusercontent.com/11834016/173977717-dbbcf5f0-aa95-4ad3-bb9e-fa495be2e1a7.png)
